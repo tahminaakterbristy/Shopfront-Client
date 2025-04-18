@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Moisturizing Face Cream",
+        "image": "https://example.com/images/moisturizing_face_cream.jpg",
+        "description": "A lightweight, hydrating face cream that absorbs quickly for soft, smooth skin.",
+        "rating": 4.8
+    },
+    {
+        "id": 2,
+        "name": "Revitalizing Eye Serum",
+        "image": "https://example.com/images/revitalizing_eye_serum.jpg",
+        "description": "Brighten and tighten the eye area with this powerful serum that reduces dark circles.",
+        "rating": 4.7
+    },
+    {
+        "id": 3,
+        "name": "Hydrating Lip Balm",
+        "image": "https://example.com/images/hydrating_lip_balm.jpg",
+        "description": "Keep your lips soft and hydrated with this nourishing lip balm infused with vitamins.",
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "name": "Nourishing Hair Mask",
+        "image": "https://example.com/images/nourishing_hair_mask.jpg",
+        "description": "Restore shine and hydration to dry, damaged hair with this deep conditioning mask.",
+        "rating": 4.6
+    },
+    {
+        "id": 5,
+        "name": "Gentle Cleansing Foam",
+        "image": "https://example.com/images/gentle_cleansing_foam.jpg",
+        "description": "A foaming cleanser that removes impurities without stripping moisture from the skin.",
+        "rating": 4.9
+    },
+    {
+        "id": 6,
+        "name": "Smoothing Primer",
+        "image": "https://example.com/images/smoothing_primer.jpg",
+        "description": "Create a flawless canvas for makeup with this smoothing and blurring primer.",
+        "rating": 4.8
+    },
+    {
+        "id": 7,
+        "name": "Hydrating Face Mask",
+        "image": "https://example.com/images/hydrating_face_mask.jpg",
+        "description": "A sheet mask that provides intense hydration and nourishment for glowing skin.",
+        "rating": 4.7
+    },
+    {
+        "id": 8,
+        "name": "Exfoliating Scrub",
+        "image": "https://example.com/images/exfoliating_scrub.jpg",
+        "description": "Gently exfoliate your skin to reveal a brighter, smoother complexion.",
+        "rating": 4.6
+    },
+    {
+        "id": 9,
+        "name": "Nourishing Cuticle Oil",
+        "image": "https://example.com/images/nourishing_cuticle_oil.jpg",
+        "description": "Moisturize and strengthen your nails and cuticles with this nourishing oil.",
+        "rating": 4.8
+    },
+    {
+        "id": 10,
+        "name": "Brightening Serum",
+        "image": "https://example.com/images/brightening_serum.jpg",
+        "description": "Achieve a radiant complexion with this brightening serum packed with vitamin C.",
+        "rating": 4.9
+    },
+    {
+        "id": 11,
+        "name": "Long-lasting Lipstick",
+        "image": "https://example.com/images/long-lasting_lipstick.jpg",
+        "description": "A highly pigmented lipstick that provides intense color and stays put all day.",
+        "rating": 4.5
+    },
+    {
+        "id": 12,
+        "name": "Setting Spray",
+        "image": "https://example.com/images/setting_spray.jpg",
+        "description": "Lock your makeup in place with this lightweight setting spray for a flawless finish.",
+        "rating": 4.7
+    },
+    {
+        "id": 13,
+        "name": "Soothing Aloe Gel",
+        "image": "https://example.com/images/soothing_aloe_gel.jpg",
+        "description": "Soothe and cool your skin with this refreshing aloe vera gel.",
+        "rating": 4.6
+    },
+    {
+        "id": 14,
+        "name": "Anti-Aging Night Cream",
+        "image": "https://example.com/images/anti-aging_night_cream.jpg",
+        "description": "Rejuvenate your skin overnight with this rich anti-aging night cream.",
+        "rating": 4.8
+    },
+    {
+        "id": 15,
+        "name": "Tinted Moisturizer",
+        "image": "https://example.com/images/tinted_moisturizer.jpg",
+        "description": "Achieve a natural glow with this lightweight tinted moisturizer with SPF.",
+        "rating": 4.7
+    },
+    {
+        "id": 16,
+        "name": "Face Oil",
+        "image": "https://example.com/images/face_oil.jpg",
+        "description": "Nourish your skin with this blend of natural oils for a radiant finish.",
+        "rating": 4.9
+    },
+    {
+        "id": 17,
+        "name": "Volumizing Mascara",
+        "image": "https://example.com/images/volumizing_mascara.jpg",
+        "description": "Get fuller, longer lashes with this volumizing mascara that lasts all day.",
+        "rating": 4.6
+    },
+    {
+        "id": 18,
+        "name": "Hydrating Foundation",
+        "image": "https://example.com/images/hydrating_foundation.jpg",
+        "description": "A buildable foundation that hydrates while providing a flawless finish.",
+        "rating": 4.7
+    },
+    {
+        "id": 19,
+        "name": "Eye Makeup Remover",
+        "image": "https://example.com/images/eye_makeup_remover.jpg",
+        "description": "Gently remove makeup without leaving any residue with this eye makeup remover.",
+        "rating": 4.8
+    },
+    {
+        "id": 20,
+        "name": "Shimmer Body Lotion",
+        "image": "https://example.com/images/shimmer_body_lotion.jpg",
+        "description": "Add a touch of shimmer and hydration to your skin with this body lotion.",
+        "rating": 4.5
+    }
+]

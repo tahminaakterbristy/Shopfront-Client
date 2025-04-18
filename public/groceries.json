@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "name": "Organic Apples",
+      "image": "https://example.com/organic-apples.jpg",
+      "description": "Fresh organic apples, perfect for snacking or baking.",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "name": "Brown Rice",
+      "image": "https://example.com/brown-rice.jpg",
+      "description": "Whole grain brown rice, a healthy staple for any meal.",
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "name": "Almond Milk",
+      "image": "https://example.com/almond-milk.jpg",
+      "description": "Creamy and delicious almond milk, perfect for smoothies or coffee.",
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "name": "Chia Seeds",
+      "image": "https://example.com/chia-seeds.jpg",
+      "description": "Nutritious chia seeds, rich in omega-3 fatty acids.",
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "name": "Whole Wheat Bread",
+      "image": "https://example.com/whole-wheat-bread.jpg",
+      "description": "Freshly baked whole wheat bread, ideal for sandwiches.",
+      "rating": 4.4
+    },
+    {
+      "id": 6,
+      "name": "Organic Eggs",
+      "image": "https://example.com/organic-eggs.jpg",
+      "description": "Farm-fresh organic eggs, free-range and high in protein.",
+      "rating": 4.9
+    },
+    {
+      "id": 7,
+      "name": "Spinach",
+      "image": "https://example.com/spinach.jpg",
+      "description": "Fresh spinach leaves, perfect for salads or smoothies.",
+      "rating": 4.5
+    },
+    {
+      "id": 8,
+      "name": "Greek Yogurt",
+      "image": "https://example.com/greek-yogurt.jpg",
+      "description": "Creamy Greek yogurt, a great source of protein.",
+      "rating": 4.8
+    },
+    {
+      "id": 9,
+      "name": "Bananas",
+      "image": "https://example.com/bananas.jpg",
+      "description": "Sweet and ripe bananas, great for breakfast or snacks.",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "name": "Oats",
+      "image": "https://example.com/oats.jpg",
+      "description": "Healthy rolled oats, perfect for a nutritious breakfast.",
+      "rating": 4.7
+    },
+    {
+      "id": 11,
+      "name": "Tomatoes",
+      "image": "https://example.com/tomatoes.jpg",
+      "description": "Fresh ripe tomatoes, ideal for salads and cooking.",
+      "rating": 4.5
+    },
+    {
+      "id": 12,
+      "name": "Avocado",
+      "image": "https://example.com/avocado.jpg",
+      "description": "Creamy avocados, perfect for toast or guacamole.",
+      "rating": 4.9
+    },
+    {
+      "id": 13,
+      "name": "Olive Oil",
+      "image": "https://example.com/olive-oil.jpg",
+      "description": "Extra virgin olive oil, perfect for cooking and dressings.",
+      "rating": 4.8
+    },
+    {
+      "id": 14,
+      "name": "Honey",
+      "image": "https://example.com/honey.jpg",
+      "description": "Pure and natural honey, great for sweetening drinks or baking.",
+      "rating": 4.7
+    },
+    {
+      "id": 15,
+      "name": "Peanut Butter",
+      "image": "https://example.com/peanut-butter.jpg",
+      "description": "Creamy peanut butter, perfect for sandwiches or smoothies.",
+      "rating": 4.6
+    }
+  ]
+  

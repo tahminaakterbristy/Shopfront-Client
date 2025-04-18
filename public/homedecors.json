@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Vintage Wall Clock",
+      "image": "https://example.com/images/vintage-wall-clock.jpg",
+      "description": "A beautiful vintage-style wall clock that adds character to any room.",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "name": "Decorative Vase Set",
+      "image": "https://example.com/images/decorative-vase-set.jpg",
+      "description": "A set of three elegant vases perfect for home or office decor.",
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "name": "Abstract Wall Art",
+      "image": "https://example.com/images/abstract-wall-art.jpg",
+      "description": "Modern abstract wall art to elevate your living space.",
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "name": "Throw Pillow Set",
+      "image": "https://example.com/images/throw-pillow-set.jpg",
+      "description": "A cozy and colorful set of throw pillows to brighten up your sofa.",
+      "rating": 4.4
+    },
+    {
+      "id": 5,
+      "name": "Rustic Wooden Shelves",
+      "image": "https://example.com/images/rustic-wooden-shelves.jpg",
+      "description": "Rustic-style wooden shelves perfect for storage and display.",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "name": "Indoor Plant Stand",
+      "image": "https://example.com/images/indoor-plant-stand.jpg",
+      "description": "A minimalist plant stand for indoor plants, suitable for any decor.",
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "name": "Bohemian Area Rug",
+      "image": "https://example.com/images/bohemian-area-rug.jpg",
+      "description": "A bohemian-style area rug that brings warmth and charm to your room.",
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "name": "Candle Holder Set",
+      "image": "https://example.com/images/candle-holder-set.jpg",
+      "description": "Elegant candle holders to add ambiance and style to your space.",
+      "rating": 4.3
+    },
+    {
+      "id": 9,
+      "name": "Ceramic Table Lamp",
+      "image": "https://example.com/images/ceramic-table-lamp.jpg",
+      "description": "A modern ceramic table lamp to brighten up your living area.",
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "name": "Velvet Curtains",
+      "image": "https://example.com/images/velvet-curtains.jpg",
+      "description": "Luxurious velvet curtains that add elegance to any window.",
+      "rating": 4.9
+    },
+    {
+      "id": 11,
+      "name": "Framed Mirror",
+      "image": "https://example.com/images/framed-mirror.jpg",
+      "description": "A classic framed mirror that enhances the style of any room.",
+      "rating": 4.8
+    },
+    {
+      "id": 12,
+      "name": "Decorative Lantern",
+      "image": "https://example.com/images/decorative-lantern.jpg",
+      "description": "A charming decorative lantern perfect for both indoor and outdoor use.",
+      "rating": 4.5
+    },
+    {
+      "id": 13,
+      "name": "Mosaic Glass Bowl",
+      "image": "https://example.com/images/mosaic-glass-bowl.jpg",
+      "description": "A vibrant mosaic glass bowl to be used as a centerpiece or decoration.",
+      "rating": 4.4
+    },
+    {
+      "id": 14,
+      "name": "Geometric Wall Shelf",
+      "image": "https://example.com/images/geometric-wall-shelf.jpg",
+      "description": "A modern geometric wall shelf to showcase your decor items.",
+      "rating": 4.7
+    },
+    {
+      "id": 15,
+      "name": "Decorative Wall Hooks",
+      "image": "https://example.com/images/decorative-wall-hooks.jpg",
+      "description": "Stylish decorative wall hooks that add function and beauty.",
+      "rating": 4.6
+    },
+    {
+      "id": 16,
+      "name": "Woven Storage Baskets",
+      "image": "https://example.com/images/woven-storage-baskets.jpg",
+      "description": "Hand-woven storage baskets that provide both utility and aesthetic.",
+      "rating": 4.8
+    },
+    {
+      "id": 17,
+      "name": "LED Fairy Lights",
+      "image": "https://example.com/images/led-fairy-lights.jpg",
+      "description": "Whimsical LED fairy lights to add a magical touch to any space.",
+      "rating": 4.5
+    },
+    {
+      "id": 18,
+      "name": "Wooden Coffee Table",
+      "image": "https://example.com/images/wooden-coffee-table.jpg",
+      "description": "A sturdy wooden coffee table with a rustic finish.",
+      "rating": 4.7
+    },
+    {
+      "id": 19,
+      "name": "Hanging Macrame Planter",
+      "image": "https://example.com/images/hanging-macrame-planter.jpg",
+      "description": "A beautiful macrame plant hanger for indoor decor.",
+      "rating": 4.6
+    },
+    {
+      "id": 20,
+      "name": "Metal Wall Sculptures",
+      "image": "https://example.com/images/metal-wall-sculptures.jpg",
+      "description": "Modern metal wall sculptures to create a focal point in any room.",
+      "rating": 4.8
+    }
+  ]
+  

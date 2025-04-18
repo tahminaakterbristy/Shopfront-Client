@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Building Block Set",
+      "image": "https://example.com/images/block-set.jpg",
+      "description": "A colorful building block set that enhances creativity and imagination.",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "name": "Remote Control Car",
+      "image": "https://example.com/images/remote-car.jpg",
+      "description": "A high-speed remote control car with rechargeable battery.",
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "name": "Plush Teddy Bear",
+      "image": "https://example.com/images/teddy-bear.jpg",
+      "description": "A soft and cuddly plush teddy bear for kids of all ages.",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "name": "Puzzle Game",
+      "image": "https://example.com/images/puzzle-game.jpg",
+      "description": "An engaging puzzle game that helps kids develop problem-solving skills.",
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "name": "Toy Robot",
+      "image": "https://example.com/images/toy-robot.jpg",
+      "description": "Interactive toy robot with sound and light features.",
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "name": "Dinosaur Action Figure",
+      "image": "https://example.com/images/dinosaur-figure.jpg",
+      "description": "Realistic dinosaur action figure for adventurous playtime.",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "name": "Toy Kitchen Set",
+      "image": "https://example.com/images/kitchen-set.jpg",
+      "description": "Mini kitchen set with utensils and pretend food items for imaginative play.",
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "name": "Art & Craft Kit",
+      "image": "https://example.com/images/art-craft-kit.jpg",
+      "description": "An art and craft kit with all necessary supplies to keep kids creative.",
+      "rating": 4.5
+    },
+    {
+      "id": 9,
+      "name": "Train Set",
+      "image": "https://example.com/images/train-set.jpg",
+      "description": "A classic train set with tracks and moving engine for endless fun.",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "name": "LEGO Police Station",
+      "image": "https://example.com/images/lego-police.jpg",
+      "description": "LEGO set featuring a police station with figures and vehicles.",
+      "rating": 4.9
+    },
+    {
+      "id": 11,
+      "name": "Toy Doctor Kit",
+      "image": "https://example.com/images/doctor-kit.jpg",
+      "description": "Pretend play doctor kit to let kids explore their medical skills.",
+      "rating": 4.7
+    },
+    {
+      "id": 12,
+      "name": "Bicycle with Training Wheels",
+      "image": "https://example.com/images/kids-bicycle.jpg",
+      "description": "A kids' bicycle with training wheels to help beginners learn to ride.",
+      "rating": 4.8
+    },
+    {
+      "id": 13,
+      "name": "Toy Fire Truck",
+      "image": "https://example.com/images/fire-truck.jpg",
+      "description": "A fire truck toy with extendable ladder and water hose.",
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "name": "Action Hero Figure",
+      "image": "https://example.com/images/action-hero.jpg",
+      "description": "Popular action hero figure for role-playing adventures.",
+      "rating": 4.4
+    },
+    {
+      "id": 15,
+      "name": "Musical Keyboard",
+      "image": "https://example.com/images/musical-keyboard.jpg",
+      "description": "Electronic musical keyboard with different sound options for young musicians.",
+      "rating": 4.9
+    },
+    {
+      "id": 16,
+      "name": "Stuffed Animal Set",
+      "image": "https://example.com/images/stuffed-animals.jpg",
+      "description": "Set of three soft stuffed animals for cuddling and play.",
+      "rating": 4.7
+    },
+    {
+      "id": 17,
+      "name": "Toy Airplane",
+      "image": "https://example.com/images/toy-airplane.jpg",
+      "description": "A toy airplane with real spinning propellers and take-off sounds.",
+      "rating": 4.5
+    },
+    {
+      "id": 18,
+      "name": "Kids' Tent Playhouse",
+      "image": "https://example.com/images/tent-playhouse.jpg",
+      "description": "A colorful kids' tent for indoor and outdoor playtime adventures.",
+      "rating": 4.6
+    },
+    {
+      "id": 19,
+      "name": "Toy Tool Set",
+      "image": "https://example.com/images/tool-set.jpg",
+      "description": "A toy tool set with a hammer, screwdriver, and other tools for pretend play.",
+      "rating": 4.6
+    },
+    {
+      "id": 20,
+      "name": "Educational Laptop Toy",
+      "image": "https://example.com/images/laptop-toy.jpg",
+      "description": "A learning laptop toy with alphabets, numbers, and fun games.",
+      "rating": 4.8
+    }
+  ]
+  

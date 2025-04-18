@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "name": "Men's Slim Fit Casual Shirt",
+      "image": "https://example.com/images/mens-casual-shirt.jpg",
+      "description": "A stylish slim fit shirt perfect for casual outings.",
+      "rating": 4.3
+    },
+    {
+      "id": 2,
+      "name": "Women's Floral Summer Dress",
+      "image": "https://example.com/images/womens-floral-dress.jpg",
+      "description": "A beautiful floral dress ideal for summer events.",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Men's Leather Jacket",
+      "image": "https://example.com/images/mens-leather-jacket.jpg",
+      "description": "Classic leather jacket with a rugged design.",
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "name": "Women's High Waist Skinny Jeans",
+      "image": "https://example.com/images/womens-skinny-jeans.jpg",
+      "description": "Comfortable and stretchy high-waist skinny jeans.",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "name": "Unisex Running Shoes",
+      "image": "https://example.com/images/unisex-running-shoes.jpg",
+      "description": "Durable and lightweight running shoes for daily use.",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "name": "Men's Casual Sneakers",
+      "image": "https://example.com/images/mens-casual-sneakers.jpg",
+      "description": "Stylish sneakers that provide comfort all day long.",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "name": "Women's Handbag",
+      "image": "https://example.com/images/womens-handbag.jpg",
+      "description": "Elegant handbag with spacious interior and sleek design.",
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "name": "Men's Denim Jacket",
+      "image": "https://example.com/images/mens-denim-jacket.jpg",
+      "description": "Trendy denim jacket with a rugged look.",
+      "rating": 4.2
+    },
+    {
+      "id": 9,
+      "name": "Women's Workout Leggings",
+      "image": "https://example.com/images/womens-workout-leggings.jpg",
+      "description": "High-performance leggings for fitness and yoga.",
+      "rating": 4.9
+    },
+    {
+      "id": 10,
+      "name": "Men's Polo T-shirt",
+      "image": "https://example.com/images/mens-polo-tshirt.jpg",
+      "description": "Classic polo T-shirt for casual and semi-formal occasions.",
+      "rating": 4.3
+    },
+    {
+      "id": 11,
+      "name": "Women's Winter Coat",
+      "image": "https://example.com/images/womens-winter-coat.jpg",
+      "description": "Warm and stylish winter coat for cold weather.",
+      "rating": 4.6
+    },
+    {
+      "id": 12,
+      "name": "Men's Formal Suit",
+      "image": "https://example.com/images/mens-formal-suit.jpg",
+      "description": "Elegant formal suit with a modern slim fit design.",
+      "rating": 4.5
+    },
+    {
+      "id": 13,
+      "name": "Women's Fashion Scarf",
+      "image": "https://example.com/images/womens-scarf.jpg",
+      "description": "Soft and versatile scarf to complement any outfit.",
+      "rating": 4.4
+    },
+    {
+      "id": 14,
+      "name": "Men's Sports Watch",
+      "image": "https://example.com/images/mens-sports-watch.jpg",
+      "description": "Durable sports watch with multiple functions.",
+      "rating": 4.6
+    },
+    {
+      "id": 15,
+      "name": "Women's Leather Boots",
+      "image": "https://example.com/images/womens-leather-boots.jpg",
+      "description": "Fashionable leather boots with a comfortable fit.",
+      "rating": 4.8
+    },
+    {
+      "id": 16,
+      "name": "Men's Sweatshirt",
+      "image": "https://example.com/images/mens-sweatshirt.jpg",
+      "description": "Comfortable and stylish sweatshirt for casual wear.",
+      "rating": 4.2
+    },
+    {
+      "id": 17,
+      "name": "Women's Maxi Dress",
+      "image": "https://example.com/images/womens-maxi-dress.jpg",
+      "description": "Flowing maxi dress perfect for formal occasions.",
+      "rating": 4.7
+    },
+    {
+      "id": 18,
+      "name": "Men's Aviator Sunglasses",
+      "image": "https://example.com/images/mens-aviator-sunglasses.jpg",
+      "description": "Stylish aviator sunglasses with UV protection.",
+      "rating": 4.6
+    },
+    {
+      "id": 19,
+      "name": "Women's Sports Bra",
+      "image": "https://example.com/images/womens-sports-bra.jpg",
+      "description": "High-support sports bra for intense workouts.",
+      "rating": 4.9
+    },
+    {
+      "id": 20,
+      "name": "Men's Cargo Pants",
+      "image": "https://example.com/images/mens-cargo-pants.jpg",
+      "description": "Comfortable cargo pants with multiple pockets.",
+      "rating": 4.3
+    }
+]  

@@ -1,0 +1,212 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "image": "https://example.com/images/bluetooth-headphones.jpg",
+      "description": "High-quality over-ear wireless Bluetooth headphones with noise-canceling technology and long battery life.",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Smartphone - 5G Enabled",
+      "image": "https://example.com/images/smartphone.jpg",
+      "description": "Sleek 5G smartphone with a high-resolution display, dual camera, and fast charging.",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "4K Ultra HD Smart TV",
+      "image": "https://example.com/images/4k-tv.jpg",
+      "description": "50-inch 4K Ultra HD Smart TV with HDR and built-in streaming services like Netflix and Amazon Prime.",
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "name": "Gaming Laptop",
+      "image": "https://example.com/images/gaming-laptop.jpg",
+      "description": "High-performance gaming laptop with an NVIDIA RTX graphics card and 16GB of RAM.",
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch with Fitness Tracker",
+      "image": "https://example.com/images/smartwatch.jpg",
+      "description": "Smartwatch with built-in GPS, heart rate monitor, and water resistance, perfect for fitness tracking.",
+      "rating": 4.4
+    },
+    {
+      "id": 6,
+      "name": "Portable Power Bank",
+      "image": "https://example.com/images/power-bank.jpg",
+      "description": "10000mAh portable power bank for charging your devices on the go.",
+      "rating": 4.3
+    },
+    {
+      "id": 7,
+      "name": "Wireless Charging Pad",
+      "image": "https://example.com/images/wireless-charging-pad.jpg",
+      "description": "Fast wireless charging pad compatible with iPhones and Android devices.",
+      "rating": 4.2
+    },
+    {
+      "id": 8,
+      "name": "Noise Cancelling Earbuds",
+      "image": "https://example.com/images/noise-cancelling-earbuds.jpg",
+      "description": "Compact in-ear noise-canceling earbuds with clear sound quality and long battery life.",
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "name": "Smart Home Security Camera",
+      "image": "https://example.com/images/security-camera.jpg",
+      "description": "1080p HD smart home security camera with night vision and motion detection.",
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "name": "USB-C Hub Adapter",
+      "image": "https://example.com/images/usb-c-hub.jpg",
+      "description": "Multi-port USB-C hub adapter with HDMI, USB-A, and SD card slots for laptops.",
+      "rating": 4.3
+    },
+    {
+      "id": 11,
+      "name": "Tablet - 10.5-inch Display",
+      "image": "https://example.com/images/tablet.jpg",
+      "description": "10.5-inch tablet with a high-resolution display, 64GB storage, and stylus support.",
+      "rating": 4.4
+    },
+    {
+      "id": 12,
+      "name": "Smart Refrigerator",
+      "image": "https://example.com/images/smart-refrigerator.jpg",
+      "description": "Energy-efficient smart refrigerator with touch screen display and voice control compatibility.",
+      "rating": 4.7
+    },
+    {
+      "id": 13,
+      "name": "Bluetooth Portable Speaker",
+      "image": "https://example.com/images/bluetooth-speaker.jpg",
+      "description": "Compact Bluetooth speaker with powerful bass and waterproof design, ideal for outdoor use.",
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "name": "Fitness Tracker Band",
+      "image": "https://example.com/images/fitness-tracker.jpg",
+      "description": "Fitness tracker band with heart rate monitor, sleep tracking, and step counter.",
+      "rating": 4.4
+    },
+    {
+      "id": 15,
+      "name": "Smart Light Bulb",
+      "image": "https://example.com/images/smart-light-bulb.jpg",
+      "description": "Smart light bulb compatible with Alexa and Google Assistant for voice-controlled lighting.",
+      "rating": 4.5
+    },
+    {
+      "id": 16,
+      "name": "External Hard Drive - 1TB",
+      "image": "https://example.com/images/external-hard-drive.jpg",
+      "description": "1TB external hard drive for extra storage and backup of your important files.",
+      "rating": 4.6
+    },
+    {
+      "id": 17,
+      "name": "Wireless Gaming Mouse",
+      "image": "https://example.com/images/wireless-gaming-mouse.jpg",
+      "description": "Ergonomic wireless gaming mouse with customizable buttons and RGB lighting.",
+      "rating": 4.7
+    },
+    {
+      "id": 18,
+      "name": "Smart Door Lock",
+      "image": "https://example.com/images/smart-door-lock.jpg",
+      "description": "Smart door lock with keyless entry, compatible with Alexa and Google Home.",
+      "rating": 4.3
+    },
+    {
+      "id": 19,
+      "name": "Electric Toothbrush",
+      "image": "https://example.com/images/electric-toothbrush.jpg",
+      "description": "Rechargeable electric toothbrush with multiple brushing modes and long-lasting battery.",
+      "rating": 4.5
+    },
+    {
+      "id": 20,
+      "name": "VR Headset",
+      "image": "https://example.com/images/vr-headset.jpg",
+      "description": "Immersive virtual reality headset compatible with gaming consoles and PCs.",
+      "rating": 4.6
+    },
+    {
+      "id": 21,
+      "name": "Smart Thermostat",
+      "image": "https://example.com/images/smart-thermostat.jpg",
+      "description": "Energy-efficient smart thermostat with remote control and scheduling via app.",
+      "rating": 4.6
+    },
+    {
+      "id": 22,
+      "name": "Robot Vacuum Cleaner",
+      "image": "https://example.com/images/robot-vacuum.jpg",
+      "description": "Automatic robot vacuum cleaner with smart navigation and voice control.",
+      "rating": 4.4
+    },
+    {
+      "id": 23,
+      "name": "Streaming Media Player",
+      "image": "https://example.com/images/streaming-media-player.jpg",
+      "description": "4K streaming media player with voice control and support for Netflix, Hulu, and YouTube.",
+      "rating": 4.5
+    },
+    {
+      "id": 24,
+      "name": "Home Theater Soundbar",
+      "image": "https://example.com/images/soundbar.jpg",
+      "description": "Powerful home theater soundbar with subwoofer for immersive audio experience.",
+      "rating": 4.7
+    },
+    {
+      "id": 25,
+      "name": "E-Reader with Adjustable Light",
+      "image": "https://example.com/images/e-reader.jpg",
+      "description": "E-Reader with adjustable warm light and weeks of battery life for a paper-like reading experience.",
+      "rating": 4.6
+    },
+    {
+      "id": 26,
+      "name": "Digital Camera - 24MP",
+      "image": "https://example.com/images/digital-camera.jpg",
+      "description": "24MP digital camera with interchangeable lenses and 4K video recording.",
+      "rating": 4.6
+    },
+    {
+      "id": 27,
+      "name": "Electric Kettle",
+      "image": "https://example.com/images/electric-kettle.jpg",
+      "description": "Stainless steel electric kettle with fast boiling technology and automatic shutoff.",
+      "rating": 4.5
+    },
+    {
+      "id": 28,
+      "name": "Wireless Keyboard and Mouse Combo",
+      "image": "https://example.com/images/wireless-keyboard-mouse.jpg",
+      "description": "Slim and portable wireless keyboard and mouse combo with quiet keys and long battery life.",
+      "rating": 4.3
+    },
+    {
+      "id": 29,
+      "name": "Instant Pot Electric Pressure Cooker",
+      "image": "https://example.com/images/instant-pot.jpg",
+      "description": "7-in-1 multifunctional electric pressure cooker for easy and fast meal preparation.",
+      "rating": 4.7
+    },
+    {
+      "id": 30,
+      "name": "USB Flash Drive - 128GB",
+      "image": "https://example.com/images/usb-flash-drive.jpg",
+      "description": "128GB high-speed USB flash drive for convenient file transfer and storage.",
+      "rating": 4.4
+    }
+]  

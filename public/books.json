@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "name": "The Great Gatsby",
+      "image": "https://example.com/great-gatsby.jpg",
+      "description": "A classic novel by F. Scott Fitzgerald about the decadence of the Jazz Age.",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "1984",
+      "image": "https://example.com/1984.jpg",
+      "description": "George Orwell's dystopian novel about a totalitarian regime and the dangers of political surveillance.",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "To Kill a Mockingbird",
+      "image": "https://example.com/to-kill-a-mockingbird.jpg",
+      "description": "Harper Lee's timeless story of race, injustice, and morality in the American South.",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "name": "The Catcher in the Rye",
+      "image": "https://example.com/catcher-in-the-rye.jpg",
+      "description": "J.D. Salinger's novel about a teenager's journey through New York City after being expelled from school.",
+      "rating": 4.3
+    },
+    {
+      "id": 5,
+      "name": "Pride and Prejudice",
+      "image": "https://example.com/pride-and-prejudice.jpg",
+      "description": "A beloved romance novel by Jane Austen about love, reputation, and class in early 19th-century England.",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "name": "Moby-Dick",
+      "image": "https://example.com/moby-dick.jpg",
+      "description": "Herman Melville's epic tale of obsession and revenge on the high seas.",
+      "rating": 4.0
+    },
+    {
+      "id": 7,
+      "name": "The Lord of the Rings",
+      "image": "https://example.com/lord-of-the-rings.jpg",
+      "description": "J.R.R. Tolkien's legendary fantasy epic about the quest to destroy the One Ring.",
+      "rating": 4.9
+    },
+    {
+      "id": 8,
+      "name": "Brave New World",
+      "image": "https://example.com/brave-new-world.jpg",
+      "description": "Aldous Huxley's dystopian vision of a world dominated by technology and social control.",
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "name": "The Hobbit",
+      "image": "https://example.com/hobbit.jpg",
+      "description": "J.R.R. Tolkien's precursor to The Lord of the Rings, following the adventures of Bilbo Baggins.",
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "name": "Jane Eyre",
+      "image": "https://example.com/jane-eyre.jpg",
+      "description": "Charlotte Brontë's Gothic romance about a governess who falls in love with her mysterious employer.",
+      "rating": 4.7
+    },
+    {
+      "id": 11,
+      "name": "Fahrenheit 451",
+      "image": "https://example.com/fahrenheit-451.jpg",
+      "description": "Ray Bradbury's novel about a future society where books are outlawed and 'firemen' burn them.",
+      "rating": 4.5
+    },
+    {
+      "id": 12,
+      "name": "Crime and Punishment",
+      "image": "https://example.com/crime-and-punishment.jpg",
+      "description": "Fyodor Dostoevsky's intense psychological novel about guilt and redemption.",
+      "rating": 4.4
+    },
+    {
+      "id": 13,
+      "name": "War and Peace",
+      "image": "https://example.com/war-and-peace.jpg",
+      "description": "Leo Tolstoy's sweeping epic about the impact of war on Russian society during the Napoleonic era.",
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "name": "The Odyssey",
+      "image": "https://example.com/odyssey.jpg",
+      "description": "Homer's ancient Greek epic about the journey of Odysseus as he tries to return home after the Trojan War.",
+      "rating": 4.5
+    },
+    {
+      "id": 15,
+      "name": "The Brothers Karamazov",
+      "image": "https://example.com/brothers-karamazov.jpg",
+      "description": "Fyodor Dostoevsky's philosophical novel about faith, free will, and the nature of good and evil.",
+      "rating": 4.8
+    }
+]
+  
