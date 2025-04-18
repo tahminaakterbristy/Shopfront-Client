@@ -1,12 +1,34 @@
-<<<<<<< HEAD
-# E-Commerce-Client
-=======
-# React + Vite
+# E-Commerce-Website
+Live Site  [Visit Here](https://leafy-sfogliatella-9aeb55.netlify.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About The Project
 
-Currently, two official plugins are available:
+This is a modern full-stack web application built using React Js and Node Js(MongoDB), with user authentication powered by Firebase. 
+The UI is designed using ,Tailwind Css,Daisy UI,Material UI, and enhanced with **React Icons** for a stylish experience. SEO optimization is also included via **React Helmet**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 21903db (First commit)
+## Technologies & Tools
+
+-  Vite + React
+-  Firebase Authentication
+-  Material UI
+-  React Helmet
+- React Icons
+-  Netlify (Deployment)
+
+## Key Features
+
+- User Registration & Login (Email/Password)
+- Protected Routes
+- Dynamic Page Titles (SEO)
+- Stylish, responsive UI with Material UI
+- Reusable components with custom icons
+
+
+
+## Installation & Setup
+
+```bash
+git clone https://github.com/tahminaakterbristy/Shopfront-Client
+cd Shopfront-Client
+npm install
+npm run dev
