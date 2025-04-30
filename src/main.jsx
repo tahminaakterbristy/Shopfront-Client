@@ -40,6 +40,10 @@ import Failed from './components/PaymentUrl/Failed.jsx';
 import Books from './components/Books/Book.jsx';
 import { HelmetProvider } from 'react-helmet-async';
 import ErrorPage from './components/ErrorPage/ErrorPage.jsx';
+import PrivateRoute from './components/PrivateRoute/PrivateRoute.jsx';
+import MyOrder from './components/MyOrder/MyOrder.jsx';
+import Services from './components/Services/Services.jsx';
+import Coverage from './components/Coverage/Coverage.jsx';
 
 
 
@@ -102,13 +106,21 @@ const router = createBrowserRouter([
         element: <Makeup></Makeup>
       },
       {
-        path: '/search',
+        path: '/search-results',
         element: <SearchResultPage></SearchResultPage>
       },
       
       {
         path: '/cart',
         element: <Cart></Cart>
+      },
+      {
+        path: '/services',
+        element: <Services></Services>
+      },
+      {
+        path: '/coverage',
+        element: <Coverage></Coverage>
       },
       {
         path: '/register',
@@ -129,7 +141,7 @@ const router = createBrowserRouter([
       },
       {
         path: '/myorder',
-        element: <MyOrders></MyOrders>
+        element: <PrivateRoute><MyOrder></MyOrder></PrivateRoute>
       },
       {
         path: '/login',
