@@ -1,5 +1,5 @@
 # E-Commerce-Website
-Live Site  [Visit Here](https://leafy-sfogliatella-9aeb55.netlify.app/)
+Live Site  [Visit Here](https://assaignment-10-1c679.web.app/)
 
 ## About The Project
 
