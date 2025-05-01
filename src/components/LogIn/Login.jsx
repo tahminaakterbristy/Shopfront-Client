@@ -2,6 +2,7 @@ import { useContext, useState } from "react";
 import { AuthContext } from "../AuthProvider/AuthProvider";
 import { useNavigate } from "react-router-dom";
 import { FaEye, FaEyeSlash } from "react-icons/fa";
+import { Helmet } from "react-helmet-async";
 
 
 
@@ -38,6 +39,9 @@ const Login = () => {
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-pink-200 to-purple-300">
+      <Helmet>
+                              <title> Shopfront | Login</title>
+                              </Helmet>
        
       <div className="card w-full max-w-md shadow-xl bg-white p-6 rounded-lg">
         <h2 className="text-2xl font-bold text-center text-gray-800">Please Login</h2>

@@ -7,7 +7,7 @@ const DiscountProducts = () => {
     const [products, setProducts] = useState([]);
    useEffect(() => {
     
-      fetch('http://localhost:8000/discountedProducts')
+      fetch('https://shopfront-server.vercel.app/discountedProducts')
         .then(response => response.json())
         .then(data => setProducts(data))
         .catch(error => console.log(error));

@@ -6,7 +6,7 @@ const SeasonalSale = () => {
 
   
   useEffect(() => {
-    fetch('http://localhost:8000/seasonalSale')  // Ensure this is the correct path to your JSON file
+    fetch('https://shopfront-server.vercel.app/seasonalSale')  // Ensure this is the correct path to your JSON file
       .then(response => response.json())
       .then(data => setProducts(data.filter(product => parseFloat(product.discount) >= 20)));
   }, []);

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Helmet } from 'react-helmet-async';
 import { FaTruck, FaUndo, FaLock, FaHeadset } from 'react-icons/fa';
 
 const services = [
@@ -27,6 +28,9 @@ const services = [
 const Service = () => {
   return (
     <div className="min-h-screen bg-[#f3d8ec] flex items-center justify-center px-4 md:px-8 lg:px-16">
+      <Helmet>
+                              <title> Shopfront | Services</title>
+                              </Helmet>
       <div className="w-full max-w-7xl py-12">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-10 text-gray-800">Our Services</h2>
         <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-4">

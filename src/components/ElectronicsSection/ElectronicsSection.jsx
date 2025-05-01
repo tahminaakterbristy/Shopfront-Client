@@ -14,7 +14,7 @@ const ElectronicsSection = () => {
       
         useEffect(() => {
           const fetchProducts = async () => {
-            const response = await fetch('http://localhost:8000/electronics');
+            const response = await fetch('https://shopfront-server.vercel.app/electronics');
             const data = await response.json();
             setProducts(data);
           };
@@ -41,7 +41,7 @@ const ElectronicsSection = () => {
           };
       
           
-          const res = await fetch("http://localhost:8000/carts", {
+          const res = await fetch("https://shopfront-server.vercel.app/carts", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(cartItem),

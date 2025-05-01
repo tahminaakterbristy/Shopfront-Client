@@ -13,7 +13,7 @@ const Books = () => {
 
   useEffect(() => {
     const fetchBooks = async () => {
-      const response = await fetch("http://localhost:8000/books");
+      const response = await fetch("https://shopfront-server.vercel.app/books");
       const data = await response.json();
       setBooks(data);
     };
@@ -40,7 +40,7 @@ const Books = () => {
     };
 
  
-    const res = await fetch("http://localhost:8000/carts", {
+    const res = await fetch("https://shopfront-server.vercel.app/carts", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(cartItem),

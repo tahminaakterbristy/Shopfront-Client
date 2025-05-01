@@ -10,7 +10,7 @@
 //   useEffect(() => {
 //     const fetchProducts = async () => {
 //       try {
-//         const response = await fetch('http://localhost:8000/products'); // Replace with your API endpoint
+//         const response = await fetch('https://shopfront-server.vercel.app/products'); // Replace with your API endpoint
 //         if (!response.ok) {
 //           throw new Error('Network response was not ok');
 //         }

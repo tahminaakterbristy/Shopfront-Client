@@ -14,7 +14,7 @@ const SearchResultPage = () => {
 
   useEffect(() => {
     const fetchResults = async () => {
-      const res = await axios.get(`http://localhost:8000/search?search=${query}`);
+      const res = await axios.get(`https://shopfront-server.vercel.app/search?search=${query}`);
       setResults(res.data);
     };
     if (query) fetchResults();
@@ -32,7 +32,7 @@ const SearchResultPage = () => {
       quantity: 1,
     };
 
-    const res = await fetch("http://localhost:8000/carts", {
+    const res = await fetch("https://shopfront-server.vercel.app/carts", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(cartItem),

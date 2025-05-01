@@ -1,6 +1,7 @@
 import { useContext, useEffect, useState } from "react";
 import { AuthContext } from "../AuthProvider/AuthProvider";
 import axios from "axios";
+import { Helmet } from "react-helmet-async";
 
 
 const MyOrder = () => {
@@ -10,7 +11,7 @@ const MyOrder = () => {
   useEffect(() => {
     if (user?.email) {
       axios
-        .get(`http://localhost:8000/orders/${user.email}`)
+        .get(`https://shopfront-server.vercel.app/orders/${user.email}`)
         .then((res) => setOrders(res.data || [])) // Always set as an array
         .catch((err) => {
           console.error("Error fetching orders:", err);
@@ -21,6 +22,9 @@ const MyOrder = () => {
 
   return (
     <div className="p-6">
+      <Helmet>
+                              <title> Shopfront | My orders</title>
+                              </Helmet>
       <h2 className="text-2xl font-bold mb-4">My Order History</h2>
 
       {orders.length === 0 ? ( 

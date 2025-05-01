@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Helmet } from 'react-helmet-async';
 import { FaMapMarkerAlt } from 'react-icons/fa';
 
 const coverageAreas = ["Dhaka", "Chattogram", "Sylhet", "Rajshahi", "Khulna"];
@@ -11,6 +12,9 @@ const Coverage = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-pink-50 via-white to-pink-100 flex flex-col items-center justify-center px-4 py-10">
+      <Helmet>
+                              <title> Shopfront | Coverage</title>
+                              </Helmet>
       <div className="w-full max-w-3xl bg-white shadow-lg rounded-2xl p-8 border border-pink-100">
         <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-800 mb-8">Check Our Coverage Area</h2>
        

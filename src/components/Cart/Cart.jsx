@@ -12,7 +12,7 @@ const Cart = () => {
 
     useEffect(() => {
         if (user && user.email) {
-            fetch(`http://localhost:8000/carts/${user?.email}`)
+            fetch(`https://shopfront-server.vercel.app/carts/${user?.email}`)
                 .then(res => res.json())
                 .then(data => setCartItems(data))
                 .catch(error => console.error("Error fetching cart:", error));
@@ -34,7 +34,7 @@ const handleDelete = (_id) => {
       confirmButtonText: 'Yes, delete it!',
     }).then((result) => {
       if (result.isConfirmed) {
-        fetch(`http://localhost:8000/carts/${_id}`, {
+        fetch(`https://shopfront-server.vercel.app/carts/${_id}`, {
           method: 'DELETE',
         })
           .then((res) => res.json())

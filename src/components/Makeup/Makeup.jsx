@@ -16,7 +16,7 @@ const Makeup = () => {
     
       useEffect(() => {
         const fetchProducts = async () => {
-          const response = await fetch('http://localhost:8000/makeUps');
+          const response = await fetch('https://shopfront-server.vercel.app/makeUps');
           const data = await response.json();
           setProducts(data);
         };
@@ -43,7 +43,7 @@ const Makeup = () => {
         };
     
         
-        const res = await fetch("http://localhost:8000/carts", {
+        const res = await fetch("https://shopfront-server.vercel.app/carts", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify(cartItem),

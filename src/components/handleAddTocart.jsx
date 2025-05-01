@@ -8,7 +8,7 @@ const handleAddToCart = async (product) => {
         userEmail: user.email 
     };
 
-    const res = await fetch('http://localhost:8000/carts', {
+    const res = await fetch('https://shopfront-server.vercel.app/carts', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(cartItem)

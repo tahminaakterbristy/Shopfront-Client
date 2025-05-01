@@ -8,7 +8,7 @@ const PlaceOrder = ({ cartItems }) => {
   const navigate = useNavigate();
 
   const handleCreatePayment = () => {
-    axios.post('http://localhost:8000/add-payment', {
+    axios.post('https://shopfront-server.vercel.app/add-payment', {
       amount: 1000,
       currency: 'BDT',
       product_name: 'Membership',
@@ -61,7 +61,7 @@ if (e.target.name === "paymentMethod" && e.target.value === "Online Payment") {
     const orderDetails = { ...orderData, cartItems, orderDate: new Date(), status: "Pending" };
 
     try {
-      const response = await axios.post("http://localhost:8000/orders", orderDetails);
+      const response = await axios.post("https://shopfront-server.vercel.app/orders", orderDetails);
       if (response.status === 200) {
         alert("Order placed successfully!");
       }

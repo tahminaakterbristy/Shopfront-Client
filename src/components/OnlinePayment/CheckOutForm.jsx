@@ -1,7 +1,7 @@
 // import axios from "axios";
 
 // const handleCreatePayment = ()=> {
-//   axios.post('http://localhost:8000/ssl',{
+//   axios.post('https://shopfront-server.vercel.app/ssl',{
 //   amount: 1000,
 //   currency: 'USD',
 //   payment_method_type: ['card'],
