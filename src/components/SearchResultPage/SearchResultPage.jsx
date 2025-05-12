@@ -21,7 +21,7 @@ const SearchResultPage = () => {
   }, [query]);
 
   const handleAddToCart = async (product) => {
-    if (!product) return; // Ensure product exists before proceeding
+    if (!product) return;
 
     const cartItem = {
       productId: product._id,

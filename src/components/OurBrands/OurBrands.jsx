@@ -3,12 +3,12 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
 
-import brand1 from "../../assets/wu-yi-zY3zIOdKXL4-unsplash.jpg";
-import brand2 from "../../assets/amin-zabardast-Eaz3rz5bf5M-unsplash.jpg";
-import brand3 from "../../assets/boliviainteligente-s6Z3d1pRa2o-unsplash.jpg";
-import brand4 from "../../assets/buzzed-buds--M5wsz_xfKQ-unsplash.jpg";
-import brand5 from "../../assets/caste-V0t_CC_X82A-unsplash.jpg";
-import brand6 from "../../assets/rubaitul-azad-xtBbVaWTV5Q-unsplash.jpg";
+import brand1 from "/assets/wu-yi-zY3zIOdKXL4-unsplash.jpg";
+import brand2 from "/assets/amin-zabardast-Eaz3rz5bf5M-unsplash.jpg";
+import brand3 from "/assets/boliviainteligente-s6Z3d1pRa2o-unsplash.jpg";
+import brand4 from "/assets/buzzed-buds--M5wsz_xfKQ-unsplash.jpg";
+import brand5 from "/assets/caste-V0t_CC_X82A-unsplash.jpg";
+import brand6 from "/assets/rubaitul-azad-xtBbVaWTV5Q-unsplash.jpg";
 
 const brandLogos = [brand1, brand2, brand3, brand4, brand5, brand6];
 
@@ -21,7 +21,7 @@ const OurBrand = () => {
     speed: 2000,
     autoplaySpeed: 0, 
     cssEase: "linear",
-    pauseOnHover: true, // Stops only when hovered
+    pauseOnHover: true, 
     arrows: false,
     responsive: [
       {

@@ -4,13 +4,13 @@ import 'swiper/css';
 import { Navigation, Pagination } from 'swiper/modules';
 import './category.css';
 
-import image from '../../assets/camylla-battani-UCctf6kvtLw-unsplash.jpg';
-import fashion from '../../assets/jocund-woman-summer-skirt-posing-with-kissing-face-expression-indoor-portrait-relaxed-elegant-ginger-lady-enjoying-leisure-time-studio.jpg';
-import homeDecor from '../../assets/scandinavian-living-room-interior-design-zoom-background.jpg';
-import toys from '../../assets/cute-plush-toys-arrangement.jpg';
-import books from '../../assets/old-books-arrangement-with-copy-space.jpg';
+import image from '/assets/camylla-battani-UCctf6kvtLw-unsplash.jpg';
+import fashion from '/assets/jocund-woman-summer-skirt-posing-with-kissing-face-expression-indoor-portrait-relaxed-elegant-ginger-lady-enjoying-leisure-time-studio.jpg';
+import homeDecor from '/assets/scandinavian-living-room-interior-design-zoom-background.jpg';
+import toys from '/assets/cute-plush-toys-arrangement.jpg';
+import books from '/assets/old-books-arrangement-with-copy-space.jpg';
 
-import beauty from '../../assets/collection-cosmetic-beauty-products-white-backdrop.jpg';
+import beauty from '/assets/collection-cosmetic-beauty-products-white-backdrop.jpg';
 
 
 const Category = () => {

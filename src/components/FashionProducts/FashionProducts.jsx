@@ -22,7 +22,7 @@ const FashionProducts = () => {
          fetchProducts();
        }, []);
      
-       // 🛒 Add to Cart Function
+       //  Add to Cart Function
        const handleAddToCart = async (product) => {
          if (!user || !user?.email) {
            alert('You have to log In to add to cart');

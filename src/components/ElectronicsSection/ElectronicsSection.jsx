@@ -7,7 +7,7 @@ import { Helmet } from "react-helmet-async";
 
 
 const ElectronicsSection = () => {
-   const { addToCart } = useCart();  // useCart থেকে addToCart ফাংশন নিয়ে আসা
+   const { addToCart } = useCart(); 
         const [products, setProducts] = useState([]);
         const { user } = useContext(AuthContext);
         const navigate = useNavigate();
@@ -22,7 +22,7 @@ const ElectronicsSection = () => {
           fetchProducts();
         }, []);
       
-        // 🛒 Add to Cart Function
+        //  Add to Cart Function
         const handleAddToCart = async (product) => {
           if (!user || !user?.email) {
             alert('You have to log In to add to cart');
@@ -68,12 +68,12 @@ const ElectronicsSection = () => {
                         <title>Shopfront | Electronics</title>
                       </Helmet>
   <div className="max-w-7xl mx-auto px-4 text-center">
-    <h2 className="text-4xl font-extrabold text-gray-800 mb-10">🚀 Featured Electronics</h2>
+    <h2 className="text-4xl font-extrabold text-gray-800 mb-10">Featured Electronics</h2>
     
     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
-      {products.map((product) => (
+      {products.map((product,index) => (
         <div
-          key={product.id}
+          key={index}
           className="bg-white rounded-2xl shadow-xl p-6 group transition duration-300 hover:shadow-2xl hover:-translate-y-1"
         >
           <div className="relative">

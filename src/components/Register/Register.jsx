@@ -36,13 +36,13 @@ const Register = () => {
           }));
           setSuccess("User created successfully!");
           
-          // SweetAlert2.fire({
-          //   position: 'top-end',
-          //   icons: 'success',
-          //   title: 'Your account has been created',
-          //   showConfirmButton: false,
-          //   timer: 1500
-          // });
+          SweetAlert2.fire({
+            position: 'top-end',
+            icons: 'success',
+            title: 'Your account has been created',
+            showConfirmButton: false,
+            timer: 1500
+          });
           navigate('/login')
         });
       })

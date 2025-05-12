@@ -6,16 +6,16 @@ import { Helmet } from "react-helmet-async";
 
 const MyOrder = () => {
   const { user } = useContext(AuthContext); 
-  const [orders, setOrders] = useState([]); // Ensure default state is an array
+  const [orders, setOrders] = useState([]); 
 
   useEffect(() => {
     if (user?.email) {
       axios
         .get(`https://shopfront-server.vercel.app/orders/${user.email}`)
-        .then((res) => setOrders(res.data || [])) // Always set as an array
+        .then((res) => setOrders(res.data || [])) 
         .catch((err) => {
           console.error("Error fetching orders:", err);
-          setOrders([]); // Prevent errors
+          setOrders([]); 
         });
     }
   }, [user]);
@@ -31,14 +31,14 @@ const MyOrder = () => {
         <p>No orders found.</p>
       ) : (
         <div className="grid gap-4">
-          {orders?.map((order) => ( // Use optional chaining to avoid errors
+          {orders?.map((order) => (
             <div key={order?._id} className="border p-4 rounded shadow-md">
               <h3 className="font-semibold">Order ID: {order?._id}</h3>
               <p>Date: {order?.orderDate ? new Date(order.orderDate).toLocaleDateString() : "N/A"}</p>
               <p>Status: {order?.status || "N/A"}</p>
               <p>Payment: {order?.paymentMethod || "N/A"}</p>
               <ul className="list-disc pl-4 mt-2">
-                {order?.cartItems?.map((item, index) => ( // Use optional chaining here too
+                {order?.cartItems?.map((item, index) => ( 
                   <li key={index}>{item?.name || "Unknown Item"} - {item?.quantity || 0}</li>
                 ))}
               </ul>

@@ -8,7 +8,7 @@ import { Helmet } from "react-helmet-async";
 
 
 const Homedecor = () => {
- const { addToCart } = useCart();  // useCart থেকে addToCart ফাংশন নিয়ে আসা
+ const { addToCart } = useCart();  
    const [products, setProducts] = useState([]);
    const { user } = useContext(AuthContext);
    const navigate = useNavigate();
@@ -22,7 +22,7 @@ const Homedecor = () => {
       fetchProducts();
     }, []);
   
-    // 🛒 Add to Cart Function
+    //  Add to Cart Function
     const handleAddToCart = async (product) => {
       if (!user || !user?.email) {
         alert('You have to log In to add to cart');

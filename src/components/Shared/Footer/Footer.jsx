@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Section 1: Logo and About */}
           <div className="space-y-4">
-            <h2 className="text-2xl font-bold text-black">Your Store</h2>
+            <h2 className="text-2xl font-bold text-black">Shop Front</h2>
             <p>
               Discover a wide range of products tailored for your needs. Shop with confidence and enjoy the best offers.
             </p>

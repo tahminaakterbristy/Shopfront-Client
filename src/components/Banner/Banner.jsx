@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { Fade, Zoom } from 'react-awesome-reveal';
-import image from '../../assets/240_F_923236649_CV933hC1Bmta4s7hMZ4TWMyo2skHh1yZ.jpg';
+import image from '/assets/240_F_923236649_CV933hC1Bmta4s7hMZ4TWMyo2skHh1yZ.jpg';
 
 
 

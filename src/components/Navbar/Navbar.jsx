@@ -1,7 +1,7 @@
-import axios from 'axios';
+
 import React, { useContext, useState } from 'react';
 import { Link, NavLink, useNavigate } from 'react-router-dom';
-import logo from "../../assets/logo.svg.jpg";
+import logo from "/assets/logo.jpg";
 import { FiMenu, FiShoppingCart } from 'react-icons/fi';
 import { MdLogout } from 'react-icons/md';
 import { useCart } from '../CartContext/CartContext';

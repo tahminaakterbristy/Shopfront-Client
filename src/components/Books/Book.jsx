@@ -6,7 +6,7 @@ import Swal from "sweetalert2";
 
 
 const Books = () => {
-  const { addToCart } = useCart();  // useCart থেকে addToCart ফাংশন নিয়ে আসা
+  const { addToCart } = useCart();  
   const [books, setBooks] = useState([]);
   const { user } = useContext(AuthContext);
   const navigate = useNavigate();
@@ -21,7 +21,7 @@ const Books = () => {
     fetchBooks();
   }, []);
 
-  // 🛒 Add to Cart Function
+  //  Add to Cart Function
   const handleAddToCart = async (book) => {
     if (!user || !user?.email) {
       alert('You have to log In to add to cart');

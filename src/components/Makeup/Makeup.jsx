@@ -1,5 +1,5 @@
 import { useContext, useEffect, useState } from "react";
-import { Fade } from "react-awesome-reveal";
+
 import { useNavigate } from "react-router-dom";
 import { AuthContext } from "../AuthProvider/AuthProvider";
 import { useCart } from "../CartContext/CartContext";
@@ -9,7 +9,7 @@ import { Helmet } from "react-helmet-async";
 
 const Makeup = () => {
 
-    const { addToCart } = useCart();  // useCart থেকে addToCart ফাংশন নিয়ে আসা
+    const { addToCart } = useCart();  
       const [products, setProducts] = useState([]);
       const { user } = useContext(AuthContext);
       const navigate = useNavigate();
@@ -24,7 +24,7 @@ const Makeup = () => {
         fetchProducts();
       }, []);
     
-      // 🛒 Add to Cart Function
+      //  Add to Cart Function
       const handleAddToCart = async (product) => {
         if (!user || !user?.email) {
           alert('You have to log In to add to cart');
