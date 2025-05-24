@@ -3,7 +3,7 @@ Live Site  [Visit Here](https://assaignment-10-1c679.web.app/)
 Server repository: https://github.com/tahminaakterbristy/Shopfront-Server
 
 ## About The Project
-This is a modern full-stack web application built using React Js and Node Js(MongoDB), with user authentication powered by Firebase. 
+This is the server side application for "Shopfront" web application built using React Js and Node Js(MongoDB), with user authentication powered by Firebase. 
 The UI is designed using ,Tailwind Css,Daisy UI,Material UI, and enhanced with **React Icons** for a stylish experience. SEO optimization is also included via **React Helmet**.
 
 
