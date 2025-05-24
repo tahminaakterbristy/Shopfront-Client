@@ -17,11 +17,13 @@ The UI is designed using ,Tailwind Css,Daisy UI,Material UI, and enhanced with *
 
 
 ## Key Features
-• Products organized and displayed based on selected categories  
+• Products organized and displayed based on selected categories user
 • Clean UI for browsing multiple product segments  
 • Add to Cart functionality  
 • Users can add products to their shopping cart  
 • Online payment integration through SSLCommerz  
+• Avialable Profille updation fro user  
+• User can search for a product  
 • Users can view their previous orders  
 • Displays order details like product name, quantity, and total cost  
 • Responsive UI optimized for both desktop and mobile users 
